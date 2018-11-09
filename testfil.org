@@ -2,3 +2,4 @@
 * ny test
   - [ ] punkt
   - punkt2
+* Test af fil
